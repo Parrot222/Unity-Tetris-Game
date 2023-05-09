@@ -6,7 +6,7 @@ Tetris is a classic puzzle game where players must arrange falling blocks to cre
   
 **Here's how to play:**  
   
-  Use the left and right arrow keys to move the falling block horizontally.  
-  Press the down arrow key to make the block fall faster.  
-  Use the up arrow key to rotate the current block.  
-  Press the space bar to make the block fall directly to the bottom."  
+  *Use the left and right arrow keys to move the falling block horizontally.  
+  *Press the down arrow key to make the block fall faster.  
+  *Use the up arrow key to rotate the current block.  
+  *Press the space bar to make the block fall directly to the bottom."  
